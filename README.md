@@ -1,162 +1,166 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Focused;Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Backend+Focused+%7C+AI+%2F+LLM+Builder;Problem+Solver+%7C+DSA+Enthusiast" alt="Typing SVG" />
 </div>
 
-<h1 align="center">👨‍💻 Chintan Kasundra</h1>
+<br/>
+
+<h1 align="center">Chintan Kasundra</h1>
 
 <p align="center">
-  <strong>Full Stack Developer • Backend Focused • Problem Solving</strong>
+  <code>Full Stack Developer</code> &nbsp;•&nbsp; <code>Backend Architect</code> &nbsp;•&nbsp; <code>AI/LLM Integrations</code>
 </p>
 
 <p align="center">
-  Building robust, scalable, and intelligent solutions that solve real-world problems.<br>
-  Passionate about clean code, architecture design, and continuous learning.
+  Building robust, scalable, and intelligent systems that solve real-world problems.<br/>
+  Passionate about clean architecture, systems design, and continuous learning.
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/chintukasundra060106/"><img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-%23FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/chintan-kasundra/"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Chintan616"><img src="https://img.shields.io/badge/GitHub-Chintan616-%23181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:chintukasundra060106@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🎯 About Me
+## About Me
 
-I'm a passionate full-stack developer with a strong backend focus and problem-solving mindset. I specialize in building production-grade applications with expertise across multiple tech stacks and a solid foundation in Data Structures & Algorithms. My focus is on creating scalable, maintainable solutions that drive real business value.
+I'm a passionate full-stack developer with a strong backend focus, specialising in production-grade applications, AI integrations, and clean system architecture. I bring a problem-solving mindset rooted in strong DSA foundations and a drive to ship things that actually scale.
 
-- 🏆 **LeetCode:** 200+ Problems Solved | Strong DSA Foundation
-- 💼 **Specialization:** Backend Architecture, System Design, Full Stack Development
-- 🚀 **Focus:** Building intelligent, scalable applications with robust backends
-- 📚 **Always Learning:** Latest technologies and best practices in backend development
-
----
-
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td><strong>Languages</strong></td>
-<td>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-%233776ab.svg?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=white" alt="C"/>
-</td>
-</tr>
-<tr>
-<td><strong>Frontend</strong></td>
-<td>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-</td>
-</tr>
-<tr>
-<td><strong>Backend</strong></td>
-<td>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-</td>
-</tr>
-<tr>
-<td><strong>AI / LLM</strong></td>
-<td>
-  <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/RAG-%236366F1.svg?style=flat-square&logo=ai&logoColor=white" alt="RAG"/>
-</td>
-</tr>
-<tr>
-<td><strong>Databases</strong></td>
-<td>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-</td>
-</tr>
-<tr>
-<td><strong>Tools & DevOps</strong></td>
-<td>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=black" alt="Render"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-%23FF6C37.svg?style=flat-square&logo=api&logoColor=white" alt="REST APIs"/>
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| 🏆 **DSA** | 200+ LeetCode problems solved — strong algorithmic foundation |
+| 💼 **Specialisation** | Backend architecture, microservices, API design, system design |
+| 🤖 **AI/LLM** | RAG pipelines, LangChain integrations, AI-powered applications |
+| 🚀 **Track Record** | 15+ production-ready applications shipped |
+| 📚 **Mindset** | Always learning — latest backend patterns & AI tooling |
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-<div align="center">
+**Languages**
 
-### 💰 [**ArthaYukti**](https://github.com/Chintan616/ArthaYukti) — AI-Powered Trading Platform
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776ab.svg?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=white)
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/AI%2FML-FF6C37?style=flat-square&logo=ai&logoColor=white"/>
+**Frontend**
 
-An intelligent financial trading platform that leverages machine learning algorithms to provide real-time trading recommendations and market insights.
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
-- 📈 **Real-time market analysis** with live data feeds and price tracking
-- 🤖 **ML-based trading signals** for intelligent buy/sell recommendations
-- 🛡️ **Risk management** with configurable thresholds and alerts
-- 💼 **Portfolio tracking** with detailed position and P&L breakdowns
-- 📊 **Performance analytics** with historical insights and trend visualization
-- ⚡ **Optimized backend** with caching strategies for low-latency decision making
+**Backend**
 
----
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white)
 
-### 🤖 [**Autonomous Recruitment Ecosystem**](https://github.com/Chintan616/Autonomous-Recruitment-Ecosystem) — End-to-End Recruitment Automation
+**AI / LLM**
 
-<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AI%2FML-FF6C37?style=flat-square&logo=ai&logoColor=white"/>
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-%236366F1.svg?style=flat-square&logoColor=white)
 
-A comprehensive end-to-end recruitment automation system that eliminates manual intervention in the hiring pipeline using NLP and AI-driven workflows.
+**Databases**
 
-- 📄 **Resume verification & parsing** with intelligent data extraction
-- 🧠 **AI candidate ranking** using NLP-based similarity scoring
-- 📅 **Automated scheduling** with calendar integration for interviews
-- 💬 **Technical interview system** with dynamic question generation
-- 🎯 **Objective scoring** for fair and consistent candidate evaluation
-- 📋 **Candidate tracking** with real-time status updates across the pipeline
-- 📧 **Email automation** for notifications, reminders, and follow-ups
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
 
----
+**Tools & DevOps**
 
-### 💻 [**Interv-ai**](https://github.com/Chintan616/Interv-ai) — AI Interview Prep Platform
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/AI%2FML-FF6C37?style=flat-square&logo=ai&logoColor=white"/>
-
-A comprehensive AI-powered interview preparation platform designed to help candidates ace their interviews with personalized coaching and real-time feedback.
-
-- 🎤 **AI mock interviews** simulating real technical and behavioral rounds
-- 🧑‍🏫 **Personalized coaching** based on individual user profiles and weak areas
-- ⚡ **Real-time feedback** on communication clarity and technical accuracy
-- 📊 **Progress analytics** with visual learning curves and performance trends
-- 🗂️ **Interview question database** spanning multiple domains and difficulty levels
-- 📈 **Performance metrics** with detailed scoring breakdowns
-- 🔄 **Adaptive difficulty** that scales with user progress over time
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-%23FF6C37.svg?style=flat-square&logoColor=white)
 
 ---
 
-### 💰 [**LedgerOne**](https://github.com/Chintan616/LedgerOne) — Cloud-Based Accounting SaaS
+## Featured Projects
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SaaS-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+### 💰 [ArthaYukti](https://github.com/Chintan616/ArthaYukti) &nbsp;—&nbsp; AI-Powered Trading Platform
 
-An enterprise-grade cloud-based accounting and invoicing SaaS platform built with a robust multi-tenant microservices architecture for scale and compliance.
+> Intelligent financial platform leveraging ML for real-time trading recommendations and market insights.
 
-- 🏢 **Multi-tenant architecture** with strict data isolation per organization
-- 🧾 **Invoice management** with automated generation and delivery
-- 💸 **Expense tracking** with categorization and approval workflows
-- 📑 **Financial reporting** with exportable statements and audit-ready formats
-- 🌍 **Tax compliance** supporting multiple currencies and tax jurisdictions
-- 👥 **User management** with role-based access control (RBAC)
-- 🔗 **API integrations** for third-party accounting and payment tools
-- 🔒 **Audit logs** and data security with end-to-end encryption
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6C37?style=flat-square&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+| Feature | Description |
+|---|---|
+| 📈 Real-time market analysis | Live data feeds with up-to-the-second price tracking |
+| 🤖 ML trading signals | Intelligent buy/sell recommendations from trained models |
+| 🛡️ Risk management | Configurable thresholds, alerts, and exposure controls |
+| 💼 Portfolio tracking | Detailed position management and P&L breakdowns |
+| 📊 Performance analytics | Historical insights, trend visualisation, and reporting |
+| ⚡ Optimised backend | Caching strategies for low-latency decision making |
 
 ---
 
-</div>
+### 🤖 [Autonomous Recruitment Ecosystem](https://github.com/Chintan616/Autonomous-Recruitment-Ecosystem) &nbsp;—&nbsp; End-to-End Hiring Automation
+
+> Eliminates manual intervention across the full hiring pipeline using NLP, AI scoring, and automated workflows.
+
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6C37?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+| Feature | Description |
+|---|---|
+| 📄 Resume verification & parsing | Intelligent data extraction with validation |
+| 🧠 AI candidate ranking | NLP-based similarity scoring across profiles |
+| 📅 Automated scheduling | Calendar-integrated interview booking |
+| 💬 Technical interview system | Dynamic question generation per role |
+| 🎯 Objective scoring | Fair, consistent evaluation with audit trail |
+| 📧 Email automation | Notifications, reminders, and follow-ups |
 
 ---
 
-## 📊 GitHub Statistics
+### 💻 [Interv-ai](https://github.com/Chintan616/Interv-ai) &nbsp;—&nbsp; AI Interview Prep Platform
+
+> Helps candidates ace interviews with personalised AI coaching, mock sessions, and real-time feedback.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6C37?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+| Feature | Description |
+|---|---|
+| 🎤 AI mock interviews | Real technical and behavioural round simulations |
+| 🧑‍🏫 Personalised coaching | Adapts to weak areas per user profile |
+| ⚡ Real-time feedback | Instant scoring on clarity and technical accuracy |
+| 📊 Progress analytics | Learning curves, trends, and performance metrics |
+| 🗂️ Question database | Multi-domain library with difficulty tiers |
+| 🔄 Adaptive difficulty | Scales challenge level as the user improves |
+
+---
+
+### 🏦 [LedgerOne](https://github.com/Chintan616/LedgerOne) &nbsp;—&nbsp; Cloud-Based Accounting SaaS
+
+> Enterprise-grade multi-tenant accounting platform built with Spring Boot microservices for compliance and scale.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+| Feature | Description |
+|---|---|
+| 🏢 Multi-tenant architecture | Strict per-organisation data isolation |
+| 🧾 Invoice management | Automated generation, delivery, and status tracking |
+| 💸 Expense tracking | Categorisation and multi-step approval workflows |
+| 📑 Financial reporting | Exportable statements in audit-ready formats |
+| 🌍 Tax compliance | Multi-currency and multi-jurisdiction support |
+| 👥 RBAC | Role-based access control with granular permissions |
+| 🔒 Security | Audit logs, end-to-end encryption, and secure credential management |
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
@@ -170,17 +174,19 @@ An enterprise-grade cloud-based accounting and invoicing SaaS platform built wit
 
 ---
 
-## 🏆 Achievements & Milestones
+## Achievements
 
-- ⭐ **LeetCode:** 200+ Problems Solved | Strong DSA Foundation
-- 🎯 **Backend Expertise:** Microservices, API Design, Database Optimization
-- 🚀 **Scalable Systems:** Designed and built 15+ production-ready applications
-- 🤖 **AI/ML Integration:** Implemented intelligent features in real-world applications
-- 💡 **Architecture Focus:** System design, performance optimization, and reliability
+| | |
+|---|---|
+| ⭐ LeetCode | 200+ problems solved — strong DSA foundation |
+| 🎯 Backend | Microservices, API design, database optimisation |
+| 🚀 Shipped | 15+ production-ready applications |
+| 🤖 AI/ML | RAG pipelines, LangChain, intelligent feature integrations |
+| 💡 Architecture | System design, performance tuning, reliability engineering |
 
 ---
 
-## 🔗 Connect With Me
+## Connect
 
 <div align="center">
 
@@ -191,12 +197,9 @@ An enterprise-grade cloud-based accounting and invoicing SaaS platform built wit
 
 </div>
 
----
+<br/>
 
 <div align="center">
-
-### 💡 *"Code is poetry, architecture is art, and problems are puzzles to solve."*
-
-**Feel free to explore my projects and connect!** ⭐ If you find something useful, don't forget to star the repo!
-
+  <i>"Code is poetry, architecture is art, and problems are puzzles to solve."</i><br/><br/>
+  Feel free to explore my projects and connect! If you find something useful, drop a ⭐
 </div>
