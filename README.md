@@ -1,59 +1,224 @@
-# 👋 Hi, I'm Chintan Kasundra
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Building+Intelligent+Solutions" alt="Typing SVG" />
+</div>
 
-🎓 **Prefinal-year Computer Science student** | **specializing in Full Stack Development** | **AI/ML** | **DSA**
+<h1 align="center">👨‍💻 Chintan Kasundra</h1>
 
-Deeply focused on building robust, industry-grade intelligent solutions & Problem solving. 
+<p align="center">
+  <strong>Prefinal-year Computer Science Student</strong> • Full Stack Developer • AI/ML Enthusiast
+</p>
 
----
-
-## 🛠 Tech Stack  
-
-**Languages**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![NoSQL](https://img.shields.io/badge/NoSQL-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  ![Hibernate](https://img.shields.io/badge/Hibernate-%23596C6C.svg?style=for-the-badge&logo=hibernate&logoColor=white)  ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)  
-
-**Databases & Tools**  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  Building robust, scalable, and intelligent solutions that solve real-world problems.<br>
+  Passionate about clean code, architecture design, and continuous learning.
+</p>
 
 ---
 
-## 🚀 Featured Projects  
+## 🎯 About Me
 
-### 📌 [ForgeLab](https://github.com/Chintan616/ForgeLab) — **MERN Stack**
+I'm a passionate full-stack developer and problem solver with a strong focus on building production-grade applications. With expertise across multiple tech stacks and a solid foundation in Data Structures & Algorithms, I create solutions that are not just functional but also scalable and maintainable.
 
-- Freelance marketplace platform connecting clients and professionals.
-- Includes service listings, order management, and role-based dashboards.
-
-### 📌 [SmartStay](https://github.com/Chintan616/SmartStay) — **Java / Spring Boot**
-
-- Property management system for landlords and tenants with rent tracking and maintenance records.
-- Built with layered architecture and RESTful APIs integrated with MySQL.
-
-### 📌 [Haven](https://github.com/Chintan616/Haven) — **Flutter**
-
-- Cross-platform hotel booking app with secure authentication and modern UI.
-- Designed for real-time booking and responsive performance across devices.
-
-### 📌 [Personal Finance Manager](https://github.com/Chintan616/Personal-Finance-Manager) — **Django**
-
-- Web-based income and expense tracker with category-based reports and analytics.
-- Includes user authentication, predefined categories, and visual dashboards. 
+- 🏆 **LeetCode:** 200+ Problems Solved
+- 💼 **Specialization:** Full Stack Development, AI/ML, System Design
+- 🚀 **Focus:** Building intelligent, user-centric applications
+- 📚 **Always Learning:** Latest technologies and best practices
 
 ---
 
-## 🏆 Achievements  
-- **LeetCode:** Solved 200+ problems 
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-%233776ab.svg?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=flat-square&logo=c&logoColor=white" alt="C"/>
+</td>
+</tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+</td>
+</tr>
+<tr>
+<td><strong>Databases</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+</td>
+</tr>
+<tr>
+<td><strong>Tools & Others</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-%23FF6C37.svg?style=flat-square&logo=api&logoColor=white" alt="REST APIs"/>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Coding Profiles & Links  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chintukasundra060106/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintan-kasundra/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chintan616)  
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 💰 [**ArthaYukti**](https://github.com/Chintan616/ArthaYukti) — AI-Powered Trading Platform
+**Intelligent Financial Intelligence**
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/AI%2FML-FF6C37?style=flat-square&logo=ai&logoColor=white"/>
+
+Leverages machine learning algorithms to provide intelligent trading recommendations and market insights.
 
 ---
+
+### 🤖 [**Autonomous Recruitment Ecosystem**](https://github.com/Chintan616/Autonomous-Recruitment-Ecosystem) — End-to-End Recruitment Automation
+**AI-Driven Hiring Process**
+
+<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AI%2FML-FF6C37?style=flat-square&logo=ai&logoColor=white"/>
+
+Complete automation pipeline: resume verification, candidate ranking, interview scheduling, and technical assessment with objective scoring.
+
+---
+
+### 💼 [**ForgeLab**](https://github.com/Chintan616/ForgeLab) — Freelance Marketplace
+**MERN Stack**
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+
+Connect clients and freelancers seamlessly. Features service listings, order management, ratings, and role-based dashboards.
+
+---
+
+### 🏠 [**SmartStay**](https://github.com/Chintan616/SmartStay) — Property Management System
+**Java | Spring Boot**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+
+Complete property management with rent tracking, maintenance records, and tenant communications built with layered architecture.
+
+---
+
+### 🏨 [**Haven**](https://github.com/Chintan616/Haven) — Hotel Booking App
+**Flutter | Cross-Platform**
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+
+Responsive hotel booking application with secure authentication, real-time availability, and modern UI/UX.
+
+---
+
+### 💳 [**NexaBank**](https://github.com/Chintan616/NexaBank) — Digital Banking Platform
+**Next-Gen Financial Services**
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+Modern digital banking platform with account management, fund transfers, and transaction tracking.
+
+---
+
+### 💰 [**LedgerOne**](https://github.com/Chintan616/LedgerOne) — Cloud-Based Accounting SaaS
+**Java | Enterprise**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SaaS-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+
+Comprehensive invoicing and accounting solution for businesses with multi-tenant architecture.
+
+---
+
+### 🏦 [**Spring Boot Microservices Banking App**](https://github.com/Chintan616/Spring-Boot-Microservices-Banking-Application) — Microservices Architecture
+**Enterprise Banking**
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=microservices&logoColor=white"/>
+
+Scalable banking application with service registry, API gateway, and robust microservices design.
+
+---
+
+### 💰 [**Personal Finance Manager**](https://github.com/Chintan616/Personal-Finance-Manager) — Django Web App
+**Full-Stack Finance**
+
+<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+
+Track income and expenses with analytics, visual reports, and category-based organization.
+
+---
+
+### ⛓️ [**PharmaChain**](https://github.com/Chintan616/PharmaChain) — Pharmaceutical Supply Chain
+**ASP.NET Core MVC**
+
+<img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+
+Role-based supply chain management system with transparency, traceability, and efficient medicine distribution.
+
+---
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chintan616&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintan616&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Chintan616&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements & Milestones
+
+- ⭐ **LeetCode:** 200+ Problems Solved | Consistent Problem Solver
+- 🎯 **Full Stack Expertise:** Built 15+ production-ready applications
+- 🚀 **Scalable Architecture:** Experienced with microservices, REST APIs, and distributed systems
+- 🤖 **AI/ML Integration:** Implemented intelligent features in multiple applications
+- 💡 **Innovation Focus:** Constantly exploring new technologies and best practices
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/chintukasundra060106/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintan-kasundra/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chintan616)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chintukasundra060106@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Code is poetry, architecture is art, and problems are puzzles to solve."*
+
+**Feel free to explore my projects and connect!** ⭐ If you find something useful, don't forget to star the repo!
+
+</div>
