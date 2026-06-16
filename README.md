@@ -43,10 +43,8 @@ I'm a passionate full-stack developer with a strong backend focus and problem-so
 <td><strong>Frontend</strong></td>
 <td>
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 </td>
 </tr>
 <tr>
@@ -55,24 +53,30 @@ I'm a passionate full-stack developer with a strong backend focus and problem-so
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</td>
+</tr>
+<tr>
+<td><strong>AI / LLM</strong></td>
+<td>
+  <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG-%236366F1.svg?style=flat-square&logo=ai&logoColor=white" alt="RAG"/>
 </td>
 </tr>
 <tr>
 <td><strong>Databases</strong></td>
 <td>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
 </td>
 </tr>
 <tr>
-<td><strong>Tools & Others</strong></td>
+<td><strong>Tools & DevOps</strong></td>
 <td>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=black" alt="Render"/>
   <img src="https://img.shields.io/badge/REST%20APIs-%23FF6C37.svg?style=flat-square&logo=api&logoColor=white" alt="REST APIs"/>
 </td>
 </tr>
@@ -88,9 +92,14 @@ I'm a passionate full-stack developer with a strong backend focus and problem-so
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/AI%2FML-FF6C37?style=flat-square&logo=ai&logoColor=white"/>
 
-An intelligent financial trading platform that leverages machine learning algorithms to provide real-time trading recommendations and market insights. Features include predictive analytics, portfolio optimization, and risk assessment models. The backend is designed for high-frequency data processing with optimized databases and caching strategies to handle market volatility and ensure low-latency decision making.
+An intelligent financial trading platform that leverages machine learning algorithms to provide real-time trading recommendations and market insights.
 
-**Key Features:** Real-time market analysis, ML-based trading signals, Risk management, Portfolio tracking, Performance analytics
+- 📈 **Real-time market analysis** with live data feeds and price tracking
+- 🤖 **ML-based trading signals** for intelligent buy/sell recommendations
+- 🛡️ **Risk management** with configurable thresholds and alerts
+- 💼 **Portfolio tracking** with detailed position and P&L breakdowns
+- 📊 **Performance analytics** with historical insights and trend visualization
+- ⚡ **Optimized backend** with caching strategies for low-latency decision making
 
 ---
 
@@ -98,9 +107,15 @@ An intelligent financial trading platform that leverages machine learning algori
 
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AI%2FML-FF6C37?style=flat-square&logo=ai&logoColor=white"/>
 
-A comprehensive end-to-end recruitment automation system that eliminates manual intervention in the hiring pipeline. The system includes intelligent resume parsing and verification, candidate similarity scoring using NLP, automated interview scheduling with calendar integration, and dynamic technical interviews with objective scoring. Built with robust backend services for data integrity and secure credential management across the recruitment workflow.
+A comprehensive end-to-end recruitment automation system that eliminates manual intervention in the hiring pipeline using NLP and AI-driven workflows.
 
-**Key Features:** Resume verification & parsing, AI candidate ranking, Automated scheduling, Technical interview system, Objective scoring, Candidate tracking, Email automation
+- 📄 **Resume verification & parsing** with intelligent data extraction
+- 🧠 **AI candidate ranking** using NLP-based similarity scoring
+- 📅 **Automated scheduling** with calendar integration for interviews
+- 💬 **Technical interview system** with dynamic question generation
+- 🎯 **Objective scoring** for fair and consistent candidate evaluation
+- 📋 **Candidate tracking** with real-time status updates across the pipeline
+- 📧 **Email automation** for notifications, reminders, and follow-ups
 
 ---
 
@@ -108,9 +123,15 @@ A comprehensive end-to-end recruitment automation system that eliminates manual 
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/AI%2FML-FF6C37?style=flat-square&logo=ai&logoColor=white"/>
 
-A comprehensive AI-powered interview preparation platform designed to help candidates ace their interviews. Offers personalized coaching based on user profiles, simulates real interview scenarios with AI mock interviews, provides real-time feedback on communication and technical accuracy. The backend manages user progress tracking, learning analytics, and personalized recommendations using machine learning models trained on interview patterns and success metrics.
+A comprehensive AI-powered interview preparation platform designed to help candidates ace their interviews with personalized coaching and real-time feedback.
 
-**Key Features:** AI mock interviews, Personalized coaching, Real-time feedback, Progress analytics, Interview question database, Performance metrics, Adaptive difficulty levels
+- 🎤 **AI mock interviews** simulating real technical and behavioral rounds
+- 🧑‍🏫 **Personalized coaching** based on individual user profiles and weak areas
+- ⚡ **Real-time feedback** on communication clarity and technical accuracy
+- 📊 **Progress analytics** with visual learning curves and performance trends
+- 🗂️ **Interview question database** spanning multiple domains and difficulty levels
+- 📈 **Performance metrics** with detailed scoring breakdowns
+- 🔄 **Adaptive difficulty** that scales with user progress over time
 
 ---
 
@@ -118,9 +139,16 @@ A comprehensive AI-powered interview preparation platform designed to help candi
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SaaS-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
 
-An enterprise-grade cloud-based accounting and invoicing SaaS platform built with a robust multi-tenant architecture. The system handles complex financial workflows including invoice generation, expense tracking, financial reporting, and compliance management. Built with Spring Boot microservices for scalability, featuring secure data isolation, role-based access control, and audit trails. Optimized for handling thousands of concurrent users with support for multiple currencies and tax jurisdictions.
+An enterprise-grade cloud-based accounting and invoicing SaaS platform built with a robust multi-tenant microservices architecture for scale and compliance.
 
-**Key Features:** Multi-tenant architecture, Invoice management, Expense tracking, Financial reporting, Tax compliance, User management, API integrations, Audit logs, Data security
+- 🏢 **Multi-tenant architecture** with strict data isolation per organization
+- 🧾 **Invoice management** with automated generation and delivery
+- 💸 **Expense tracking** with categorization and approval workflows
+- 📑 **Financial reporting** with exportable statements and audit-ready formats
+- 🌍 **Tax compliance** supporting multiple currencies and tax jurisdictions
+- 👥 **User management** with role-based access control (RBAC)
+- 🔗 **API integrations** for third-party accounting and payment tools
+- 🔒 **Audit logs** and data security with end-to-end encryption
 
 ---
 
