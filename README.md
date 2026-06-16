@@ -102,39 +102,12 @@ Complete automation pipeline: resume verification, candidate ranking, interview 
 
 ---
 
-### 💼 [**ForgeLab**](https://github.com/Chintan616/ForgeLab) — Freelance Marketplace
-**MERN Stack**
+### 💻 [**Interv-ai**](https://github.com/Chintan616/Interv-ai) — AI Interview Prep Platform
+**Interview Preparation Made Intelligent**
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/AI%2FML-FF6C37?style=flat-square&logo=ai&logoColor=white"/>
 
-Connect clients and freelancers seamlessly. Features service listings, order management, ratings, and role-based dashboards.
-
----
-
-### 🏠 [**SmartStay**](https://github.com/Chintan616/SmartStay) — Property Management System
-**Java | Spring Boot**
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-
-Complete property management with rent tracking, maintenance records, and tenant communications built with layered architecture.
-
----
-
-### 🏨 [**Haven**](https://github.com/Chintan616/Haven) — Hotel Booking App
-**Flutter | Cross-Platform**
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-
-Responsive hotel booking application with secure authentication, real-time availability, and modern UI/UX.
-
----
-
-### 💳 [**NexaBank**](https://github.com/Chintan616/NexaBank) — Digital Banking Platform
-**Next-Gen Financial Services**
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-
-Modern digital banking platform with account management, fund transfers, and transaction tracking.
+Comprehensive AI-powered platform for interview preparation with personalized coaching, mock interviews, and real-time feedback.
 
 ---
 
@@ -143,34 +116,7 @@ Modern digital banking platform with account management, fund transfers, and tra
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SaaS-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
 
-Comprehensive invoicing and accounting solution for businesses with multi-tenant architecture.
-
----
-
-### 🏦 [**Spring Boot Microservices Banking App**](https://github.com/Chintan616/Spring-Boot-Microservices-Banking-Application) — Microservices Architecture
-**Enterprise Banking**
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=microservices&logoColor=white"/>
-
-Scalable banking application with service registry, API gateway, and robust microservices design.
-
----
-
-### 💰 [**Personal Finance Manager**](https://github.com/Chintan616/Personal-Finance-Manager) — Django Web App
-**Full-Stack Finance**
-
-<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-
-Track income and expenses with analytics, visual reports, and category-based organization.
-
----
-
-### ⛓️ [**PharmaChain**](https://github.com/Chintan616/PharmaChain) — Pharmaceutical Supply Chain
-**ASP.NET Core MVC**
-
-<img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-
-Role-based supply chain management system with transparency, traceability, and efficient medicine distribution.
+Comprehensive invoicing and accounting solution for businesses with multi-tenant architecture and advanced financial management features.
 
 ---
 
