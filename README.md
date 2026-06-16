@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Focused;Problem+Solving" alt="Typing SVG" />
 </div>
 
 <h1 align="center">👨‍💻 Chintan Kasundra</h1>
 
 <p align="center">
-  <strong>Prefinal-year Computer Science Student</strong> • Full Stack Developer • AI/ML Enthusiast
+  <strong>Full Stack Developer • Backend Focused • Problem Solving</strong>
 </p>
 
 <p align="center">
@@ -17,12 +17,12 @@
 
 ## 🎯 About Me
 
-I'm a passionate full-stack developer and problem solver with a strong focus on building production-grade applications. With expertise across multiple tech stacks and a solid foundation in Data Structures & Algorithms, I create solutions that are not just functional but also scalable and maintainable.
+I'm a passionate full-stack developer with a strong backend focus and problem-solving mindset. I specialize in building production-grade applications with expertise across multiple tech stacks and a solid foundation in Data Structures & Algorithms. My focus is on creating scalable, maintainable solutions that drive real business value.
 
-- 🏆 **LeetCode:** 200+ Problems Solved
-- 💼 **Specialization:** Full Stack Development, AI/ML, System Design
-- 🚀 **Focus:** Building intelligent, user-centric applications
-- 📚 **Always Learning:** Latest technologies and best practices
+- 🏆 **LeetCode:** 200+ Problems Solved | Strong DSA Foundation
+- 💼 **Specialization:** Backend Architecture, System Design, Full Stack Development
+- 🚀 **Focus:** Building intelligent, scalable applications with robust backends
+- 📚 **Always Learning:** Latest technologies and best practices in backend development
 
 ---
 
@@ -85,38 +85,42 @@ I'm a passionate full-stack developer and problem solver with a strong focus on 
 <div align="center">
 
 ### 💰 [**ArthaYukti**](https://github.com/Chintan616/ArthaYukti) — AI-Powered Trading Platform
-**Intelligent Financial Intelligence**
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/AI%2FML-FF6C37?style=flat-square&logo=ai&logoColor=white"/>
 
-Leverages machine learning algorithms to provide intelligent trading recommendations and market insights.
+An intelligent financial trading platform that leverages machine learning algorithms to provide real-time trading recommendations and market insights. Features include predictive analytics, portfolio optimization, and risk assessment models. The backend is designed for high-frequency data processing with optimized databases and caching strategies to handle market volatility and ensure low-latency decision making.
+
+**Key Features:** Real-time market analysis, ML-based trading signals, Risk management, Portfolio tracking, Performance analytics
 
 ---
 
 ### 🤖 [**Autonomous Recruitment Ecosystem**](https://github.com/Chintan616/Autonomous-Recruitment-Ecosystem) — End-to-End Recruitment Automation
-**AI-Driven Hiring Process**
 
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AI%2FML-FF6C37?style=flat-square&logo=ai&logoColor=white"/>
 
-Complete automation pipeline: resume verification, candidate ranking, interview scheduling, and technical assessment with objective scoring.
+A comprehensive end-to-end recruitment automation system that eliminates manual intervention in the hiring pipeline. The system includes intelligent resume parsing and verification, candidate similarity scoring using NLP, automated interview scheduling with calendar integration, and dynamic technical interviews with objective scoring. Built with robust backend services for data integrity and secure credential management across the recruitment workflow.
+
+**Key Features:** Resume verification & parsing, AI candidate ranking, Automated scheduling, Technical interview system, Objective scoring, Candidate tracking, Email automation
 
 ---
 
 ### 💻 [**Interv-ai**](https://github.com/Chintan616/Interv-ai) — AI Interview Prep Platform
-**Interview Preparation Made Intelligent**
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/AI%2FML-FF6C37?style=flat-square&logo=ai&logoColor=white"/>
 
-Comprehensive AI-powered platform for interview preparation with personalized coaching, mock interviews, and real-time feedback.
+A comprehensive AI-powered interview preparation platform designed to help candidates ace their interviews. Offers personalized coaching based on user profiles, simulates real interview scenarios with AI mock interviews, provides real-time feedback on communication and technical accuracy. The backend manages user progress tracking, learning analytics, and personalized recommendations using machine learning models trained on interview patterns and success metrics.
+
+**Key Features:** AI mock interviews, Personalized coaching, Real-time feedback, Progress analytics, Interview question database, Performance metrics, Adaptive difficulty levels
 
 ---
 
 ### 💰 [**LedgerOne**](https://github.com/Chintan616/LedgerOne) — Cloud-Based Accounting SaaS
-**Java | Enterprise**
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/SaaS-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
 
-Comprehensive invoicing and accounting solution for businesses with multi-tenant architecture and advanced financial management features.
+An enterprise-grade cloud-based accounting and invoicing SaaS platform built with a robust multi-tenant architecture. The system handles complex financial workflows including invoice generation, expense tracking, financial reporting, and compliance management. Built with Spring Boot microservices for scalability, featuring secure data isolation, role-based access control, and audit trails. Optimized for handling thousands of concurrent users with support for multiple currencies and tax jurisdictions.
+
+**Key Features:** Multi-tenant architecture, Invoice management, Expense tracking, Financial reporting, Tax compliance, User management, API integrations, Audit logs, Data security
 
 ---
 
@@ -140,11 +144,11 @@ Comprehensive invoicing and accounting solution for businesses with multi-tenant
 
 ## 🏆 Achievements & Milestones
 
-- ⭐ **LeetCode:** 200+ Problems Solved | Consistent Problem Solver
-- 🎯 **Full Stack Expertise:** Built 15+ production-ready applications
-- 🚀 **Scalable Architecture:** Experienced with microservices, REST APIs, and distributed systems
-- 🤖 **AI/ML Integration:** Implemented intelligent features in multiple applications
-- 💡 **Innovation Focus:** Constantly exploring new technologies and best practices
+- ⭐ **LeetCode:** 200+ Problems Solved | Strong DSA Foundation
+- 🎯 **Backend Expertise:** Microservices, API Design, Database Optimization
+- 🚀 **Scalable Systems:** Designed and built 15+ production-ready applications
+- 🤖 **AI/ML Integration:** Implemented intelligent features in real-world applications
+- 💡 **Architecture Focus:** System design, performance optimization, and reliability
 
 ---
 
